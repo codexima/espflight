@@ -1,2 +1,2 @@
 # ESPFlight
-Open Source Flight Control Firmware for ESP MCUs
+Open Source Flight Controller Firmware for ESP MCUs
